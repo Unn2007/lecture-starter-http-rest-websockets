@@ -37,6 +37,15 @@
 
 #text-container {
     font-size: large;
+    white-space: pre;
+}
+
+.correct {
+    background-color: green;
+}
+
+.current {
+    text-decoration: underline;
 }
 
 #game-timer {
